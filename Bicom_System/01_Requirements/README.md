@@ -22,10 +22,10 @@
 ### High-Level Requirements
 |  ID|Description|
   |---|---|
-  | HLR01 | It Should detect the Window Status |
-  | HLR02 | It can Update the alarm status |
-  | HLR03 | It Should detect the car battery information |
-  | HLR04 | It Should update the door status |
+  | HLR01 | It Shall detect the Window Status |
+  | HLR02 | It shall Update the alarm status |
+  | HLR03 | It Shall detect the car battery information |
+  | HLR04 | It Shall update the door status |
   
 ### Low-Level Requirements
 | ID | Low Level Requirements for H1|       |ID | Low Level Requirements for H2|
