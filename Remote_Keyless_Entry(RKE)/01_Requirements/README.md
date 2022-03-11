@@ -38,7 +38,7 @@ RKE systems employ encryption methods to prevent car thieves from intercepting a
 
 | ID | Low Level Requirements for H3|  |ID | Low Level Requirements for H4|
 | -------- | -------------- | ---- | -------- | -------------- |
-| H3L1 | Pressing Blue button thrice shall make all LEDs glow clockwise as shown below|  | H4L1 | Pressing Blue button four times shall make all LEDs glow anti-clockwise as sho
+| H3L1 | Pressing Blue button thrice shall make all LEDs glow clockwise as shown below|  | H4L1 | Pressing Blue button four times shall make all LEDs glow anti-clockwise as shown
 |H3L1 |GREEN:arrow_right:ORANGE:arrow_right:RED:arrow_right:BLUE |                       |H4L1 | GREEN:arrow_right:BLUE:arrow_right:RED:arrow_right:ORANGE |  
   ## SWOT Analysis
   ![SWOT](https://user-images.githubusercontent.com/98813646/157853215-1b9bdbb0-39c1-462a-8877-b8bbcc2f0884.PNG)
