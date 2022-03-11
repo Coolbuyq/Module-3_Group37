@@ -9,3 +9,10 @@
 
 
 # Contributers
+|Work| Contributers | PS Number |
+|------|-------|-------|
+| Requirements  | Aniket Nagpure| 99007871 |
+| Architecture   | Vaishnavi Borikar | 99007872 |
+| Implementation   | Equally contributed by All | 99007871 , 99007872, 99007873 , 99007874 |
+| Teast Plan   | Chirag Sahu | 99007874 |
+| Report   | Mihir Kamble | 99007873 |
