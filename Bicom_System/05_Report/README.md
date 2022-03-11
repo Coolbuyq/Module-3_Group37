@@ -45,6 +45,13 @@
 
 ## 5W's & 1H.
 ![Untitled](https://user-images.githubusercontent.com/98813646/157856381-a0fc27ac-7b55-4059-a934-db2c102b12ac.png)
+# Structural Diagram
+
+## High-Level Flow Chart
+![HighLevelBiCom](https://user-images.githubusercontent.com/98817420/157873787-1115a071-a70a-49a8-b362-3cde852bb7fe.png)
+
+## High Level UML UseCase Structural Diagram:
+![High BI UmL](https://user-images.githubusercontent.com/98813646/157869442-56c214b6-9b89-4510-a6e8-4ceadc847d8f.png)
 
 
 
