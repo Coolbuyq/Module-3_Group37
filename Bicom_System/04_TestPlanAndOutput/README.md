@@ -4,7 +4,7 @@
 
 ## High Level Test Plan
 
-| Test ID | Description | Input | Expected Output | Actual Output | Passed |
+| Test ID | Description | Input | Expected Output | Actual Output | Passed/Not |
 |---------:|:----------:|:------:|:--------------:|:---------------:|:--------|
 |01 | Print window status | User presses button once | Print window status of car | Print window status of car | Passed |
 |02 | Print alarm status | User presses button twice | Print alarm status of car | Print alarm status of car | Passed |
@@ -13,7 +13,7 @@
 
 ## Low Level Test Plan 
 
-| Test ID | Description | Input | Expected Output | Actual Output | Passed |
+| Test ID | Description | Input | Expected Output | Actual Output | Passed/Not |
 |--------:|:-----------:|:-----:|:---------------:|:--------------:|:-------|
 | 01      | check print window status |User presses button once| All LEDs should on | All LEDs should on | Passed |
 |02 | Check print alarm status | User presses button twice | All LEDs should off | All LEDs should off | Passed |
