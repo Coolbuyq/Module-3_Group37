@@ -70,6 +70,7 @@
 |03 | Check print car battery info | User presses button three times | LEDs turn on once clockwise | LEDs turn on once clockwise | ✔️ Passed |
 |04 | check print door status |  User presses button four times | LEDs turn on once anticlockwise | LEDs turn on once anticlockwise | ✔️ Passed |
 
+![Bi](https://user-images.githubusercontent.com/98813646/157868153-730430eb-6b89-4f8f-af48-24d875d37da2.PNG)
 
 
 
