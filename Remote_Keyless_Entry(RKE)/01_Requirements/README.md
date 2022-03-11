@@ -22,11 +22,11 @@ RKE systems employ encryption methods to prevent car thieves from intercepting a
 ### High-Level Requirements
   |ID|Description|
   |---|---|
-  | HLR01 | It Should function accordingly towards locking and Unlocking the door |
-  | HLR02 | It should be a compact ECU performing the tasks provided |
-  | HLR03 | It Should Activate/Deactivate the alarm timed accordingly |
-  | HLR04 | It Should activate approach light under the provided condition |
-  | HLR05 | It should have a good security system preventing any kind of theft attempt|
+  | HLR01 | It Shall function accordingly towards locking and Unlocking the door |
+  | HLR02 | It Shall be a compact ECU performing the tasks provided |
+  | HLR03 | It Shall Activate/Deactivate the alarm timed accordingly |
+  | HLR04 | It Shall activate approach light under the provided condition |
+  | HLR05 | It shall have a good security system preventing any kind of theft attempt|
   
 ### Low-Level Requirements
 | ID | Low Level Requirements for H1|       |ID | Low Level Requirements for H2|
