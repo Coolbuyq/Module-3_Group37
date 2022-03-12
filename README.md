@@ -22,7 +22,7 @@
 |---|---|
 | Bicom System_Requirements |Chirag and Aniket   |
 | Bicom System Repo 2_Architecture |Vaishnavi and Chirag  |
-| Bicom System 3_Implementation| All |
+| Bicom System 3_Implementation| Aniket ,Vaishavi ,Mihir ,Chirag |
 | Bicom System code 4_TestPlanAndOutput | Chirag, Mihir|
 | Bicom System code 5_Report | Mihir Kamble |
 
