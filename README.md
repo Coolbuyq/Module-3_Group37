@@ -5,7 +5,7 @@
 
  |CodeQL| CODIGA | Codacy |Codacy Security Scan  
  | --- | --- | --- | --- |
-[![CodeQL](https://github.com/Coolbuyq/Module-3_Group37/actions/workflows/CodeQL.yml/badge.svg)](https://github.com/Coolbuyq/Module-3_Group37/actions/workflows/CodeQL.yml)| ![code grade](https://api.codiga.io/project/31921/status/svg) ![Code quality Score](https://api.codiga.io/project/31921/score/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d9f4194a26eb4faab8d54875721203ba)](https://www.codacy.com/gh/Coolbuyq/Module-3_Group37/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Coolbuyq/Module-3_Group37&amp;utm_campaign=Badge_Grade)
+[![CodeQL](https://github.com/Coolbuyq/Module-3_Group37/actions/workflows/CodeQL.yml/badge.svg)](https://github.com/Coolbuyq/Module-3_Group37/actions/workflows/CodeQL.yml)| ![code grade](https://api.codiga.io/project/31921/status/svg) ![Code quality Score](https://api.codiga.io/project/31921/score/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d9f4194a26eb4faab8d54875721203ba)](https://www.codacy.com/gh/Coolbuyq/Module-3_Group37/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Coolbuyq/Module-3_Group37&amp;utm_campaign=Badge_Grade) |[![Codacy Security Scan](https://github.com/Coolbuyq/Module-3_Group37/actions/workflows/Codacy%20Security%20Scan.yml/badge.svg)](https://github.com/Coolbuyq/Module-3_Group37/actions/workflows/Codacy%20Security%20Scan.yml)
 
 ## The Project is made by:  
 |SR No| Name |
