@@ -11,9 +11,8 @@
 |-------|-------|-----------------|---------------|------------------|
 | 1     | Tap button once | Car Locked | Car Locked   | ✔️ Passed |
 | 2     | Tap Button Twice| Car Unlocked | Car Unlocked | ✔️ Passed |
-| 3     | Tap Button Thrice | Alarm Activated | Alarm Activated | ✔️ Passed |
-| 4     | Again Press Button Thrice | Alarm Deactivated | Alarm Deactivated | ✔️ Passed |
-| 5     | Tap Button Quad times | Car Approach Light On | Car Approach Light On | ✔️ Passedd |
+| 3     | Tap Button Thrice | Alarm Activated/Deactivated | Alarm Activated/Deactivated | ✔️ Passed |
+| 4     | Tap Button Quad times | Car Approach Light On | Car Approach Light On | ✔️ Passedd |
 
 ## OUTPUT
 ## 1 ) When the switch is pressed for one time
