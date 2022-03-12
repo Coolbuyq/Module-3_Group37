@@ -1,5 +1,14 @@
 # Module-3_Group37
 ---
+## Badges are below
+:arrow_down::arrow_down::arrow_down:
+## CODIDA
+https://api.codiga.io/project/31921/status/svg
+
+https://api.codiga.io/project/31921/score/svg
+
+
+
 ## The Project is made by:  
 |SR No| Name |
 |--|--|
@@ -25,4 +34,3 @@
 | Bicom System 3_Implementation| Aniket ,Vaishnavi ,Mihir ,Chirag |
 | Bicom System code 4_TestPlanAndOutput | Chirag, Mihir|
 | Bicom System code 5_Report | Mihir Kamble |
-
