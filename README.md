@@ -15,7 +15,7 @@
 | Remote_Keyless_Entry Git Repo 2_Architecture |Vaishnavi and Chirag  |
 | Remote_Keyless_Entry code 3_Implementation| Aniket  |
 | Remote_Keyless_Entry code 4_TestPlanAndOutput | Chirag, Mihir |
-| Bicom System code 5_Report | Chirag |
+| Bicom System code 5_Report | Chirag Sahu |
 
 
 | Contents | DONE By |
