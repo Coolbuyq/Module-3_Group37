@@ -9,4 +9,4 @@
 | Remote_Keyless_Entry Git Repo all diagrams |  |
 
 | 2_BiCom_System code 3_Implementation |   |
-| 2_BiCom_System Git Repo | Y.Manjunadh |
+| 2_BiCom_System Git Repo |  |
