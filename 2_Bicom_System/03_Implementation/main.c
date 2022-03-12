@@ -147,7 +147,7 @@ void Clockwise(void) //Here Car will show car battrey Info      // Chirag Sahu
 	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_15,0 );
 }
 
-void anti_clockwise(void)  // Here Car will start Here Car will Show Door Status   // Mihir Kamble
+void anti_clockwise(void)  // Here Car will Show Door Status   // Mihir Kamble
 {
 	GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_12);
 	delay();
