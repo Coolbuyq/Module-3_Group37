@@ -4,7 +4,7 @@
 | Contents | DONE By |
 |---|---|
 | Remote_Keyless_Entry code 1_Requirements |Chirag  and Aniket   |
-| Remote_Keyless_Entry Git Repo 2_Architecture |Vaishnavi and Chriag  |
+| Remote_Keyless_Entry Git Repo 2_Architecture |Vaishnavi and Chirag  |
 | Remote_Keyless_Entry code 3_Implementation| Aniket  |
 | Remote_Keyless_Entry code 4_TestPlanAndOutput | All |
 | Bicom System code 5_Report | Mihir Kamble |
@@ -12,8 +12,8 @@
 
 | Contents | DONE By |
 |---|---|
-| Bicom System_Requirements |Chirag sahu and Aniket   |
-| Bicom System Repo 2_Architecture |Vaishnavi and Chriag  |
+| Bicom System_Requirements |Chirag and Aniket   |
+| Bicom System Repo 2_Architecture |Vaishnavi and Chirag  |
 | Bicom System 3_Implementation| All |
 | Bicom System code 4_TestPlanAndOutput | All|
 | Bicom System code 5_Report | Mihir  |
