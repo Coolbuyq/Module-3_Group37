@@ -70,9 +70,9 @@ int main(void)
 	GPIO_Init(&GpioBtn);
 
 	uint32_t flag = 0;
-	uint32_t Button_pressed = 0;  //Button  Pressed showing how many times Button is pressed start from 0 to 3
+	uint32_t Button_pressed = 0;  /
 
-	while (1)
+	while (1)                                                            // ALGORITHM WRITTEN BY ANIKET NAGPURE
 	{
 		GPIO_WriteToOutputPin(GPIOA, GPIO_PIN_NO_0, DISABLE);
 		if (GPIO_ReadFromInputPin(GPIOA, GPIO_PIN_NO_0) == ENABLE)
