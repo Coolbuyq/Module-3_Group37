@@ -8,5 +8,5 @@
 | Remote_Keyless_Entry code 3_Requrements |  |
 | Remote_Keyless_Entry Git Repo all diagrams |  |
 
-| 2_BiCom_System code 3_Implementation | By A.Manoj Sai with the help  |
+| 2_BiCom_System code 3_Implementation | By A.Manoj  |
 | 2_BiCom_System Git Repo | Y.Manjunadh |
