@@ -1,6 +1,6 @@
 # Module-3_Group37
 ---
-## Badges are below
+## Badges
 :arrow_down::arrow_down::arrow_down:
 
  |CodeQL| CODIGA | Codacy  
