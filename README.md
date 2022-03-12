@@ -3,10 +3,9 @@
 ## Badges are below
 :arrow_down::arrow_down::arrow_down:
 
- |Build Linux| Build | Unity | Codiga | Codacy | Cppcheck | Valgrind 
- | --- | --- | --- | --- | --- | --- | ---| 
-
-
+ |CodeQL| CODIGA | Codacy | Codiga 
+ | --- | --- | --- | --- | --- | 
+[![CodeQL](https://github.com/Coolbuyq/Module-3_Group37/actions/workflows/CodeQL.yml/badge.svg)](https://github.com/Coolbuyq/Module-3_Group37/actions/workflows/CodeQL.yml)| ![code grade](https://api.codiga.io/project/31921/status/svg) ![Code quality Score](https://api.codiga.io/project/31921/score/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d9f4194a26eb4faab8d54875721203ba)](https://www.codacy.com/gh/Coolbuyq/Module-3_Group37/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Coolbuyq/Module-3_Group37&amp;utm_campaign=Badge_Grade)
 
 
 ## CODIGA
