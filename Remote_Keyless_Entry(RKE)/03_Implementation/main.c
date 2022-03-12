@@ -128,7 +128,7 @@ void Unlock(void) // Here Car will unlock                   // Mihir Kamble
 	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_14, 0);
 	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_15, 0);
 }
-void Clockwise(void) //Here Car will start alarm activation/deactivation Vaishnavi Borikar
+void Clockwise(void) //Here Car will start alarm activation/deactivation     //Vaishnavi Borikar
 {
 	GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_12);
 	delay();
