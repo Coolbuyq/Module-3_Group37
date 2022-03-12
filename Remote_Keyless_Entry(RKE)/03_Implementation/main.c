@@ -113,7 +113,7 @@ void delay(void)
 		;
 }
 
-void Lock(void) //Here Car will lock
+void Lock(void) //Here Car will lock                // Aniket Nagpure
 {
 	GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_12);
 	GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_13);
@@ -121,14 +121,14 @@ void Lock(void) //Here Car will lock
 	GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_15);
 }
 
-void Unlock(void) // Here Car will unlock
+void Unlock(void) // Here Car will unlock                   // Mihir Kamble
 {
 	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_12, 0);
 	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_13, 0);
 	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_14, 0);
 	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_15, 0);
 }
-void Clockwise(void) //Here Car will start alarm activation/deactivation 
+void Clockwise(void) //Here Car will start alarm activation/deactivation Vaishnavi Borikar
 {
 	GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_12);
 	delay();
@@ -147,7 +147,7 @@ void Clockwise(void) //Here Car will start alarm activation/deactivation
 	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_15,0 );
 }
 
-void anti_clockwise(void)  // Here Car will start Here Car will start approch light
+void anti_clockwise(void)  // Here Car will start Here Car will start approch light  // CHirag Sahu
 {
 	GPIO_ToggleOutputPin(GPIOD, GPIO_PIN_NO_12);
 	delay();
