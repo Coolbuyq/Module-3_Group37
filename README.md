@@ -14,7 +14,7 @@
 |---|---|
 | Bicom System_Requirements |Chirag sahu and Aniket Nagpure  |
 | Bicom System Repo 2_Architecture |Vaishnavi and Chriag  |
-| Bicom System 3_Implementation| Aniket Nagpure |
-| Bicom System code 4_TestPlanAndOutput | All |
+| Bicom System 3_Implementation| All |
+| Bicom System code 4_TestPlanAndOutput | All|
 | Bicom System code 5_Report | Mihir Kamble |
 
