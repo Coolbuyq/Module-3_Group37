@@ -3,10 +3,14 @@
 
 | Contents | DONE By |
 |---|---|
-| Remote_Keyless_Entry code 3_Implementation |  |
-| Remote_Keyless_Entry Git Repo Architecture |  |
-| Remote_Keyless_Entry code 3_Requrements |  |
-| Remote_Keyless_Entry Git Repo all diagrams |  |
+| Remote_Keyless_Entry code 1_Requrements |Chirag sahu and Aniket Nagpure  |
+| Remote_Keyless_Entry Git Repo 2_Architecture |Vaishnavi and Chriag  |
+| Remote_Keyless_Entry code 3_Implementation| Aniket Nagpure |
+| Remote_Keyless_Entry code 4_TestPlanAndOutput | All |
 
-| 2_BiCom_System code 3_Implementation |   |
-| 2_BiCom_System Git Repo |  |
+| Contents | DONE By |
+|---|---|
+| Remote_Keyless_Entry code 1_Requrements |Chirag sahu and Aniket Nagpure  |
+| Remote_Keyless_Entry Git Repo 2_Architecture |Vaishnavi and Chriag  |
+| Remote_Keyless_Entry code 3_Implementation| Aniket Nagpure |
+| Remote_Keyless_Entry code 4_TestPlanAndOutput | All |
