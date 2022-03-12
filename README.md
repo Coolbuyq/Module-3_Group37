@@ -2,12 +2,10 @@
 ---
 ## Badges are below
 :arrow_down::arrow_down::arrow_down:
-## CODIDA
-https://api.codiga.io/project/31921/status/svg
+## CODIGA
+![code grade](https://api.codiga.io/project/31921/status/svg)
 
-https://api.codiga.io/project/31921/score/svg
-
-
+![Code quality Score](https://api.codiga.io/project/31921/score/svg)
 
 ## The Project is made by:  
 |SR No| Name |
